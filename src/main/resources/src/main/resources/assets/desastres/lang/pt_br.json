@@ -1,0 +1,13 @@
+{
+  "block.desastres.furacao": "Bloco do Furacão",
+  "block.desastres.tornado": "Bloco do Tornado",
+  "block.desastres.tsunami": "Bloco do Tsunami",
+  "block.desastres.extincao": "Bloco da Extinção",
+  "block.desastres.vulcao": "Bloco do Vulcão",
+  "block.desastres.megatsunami": "Bloco do Megatsunami",
+  "block.desastres.tempestade_raios": "Bloco da Tempestade de Raios",
+  "block.desastres.tempestade_fogo": "Bloco da Tempestade de Fogo",
+  "block.desastres.terremoto": "Bloco do Terremoto",
+  "block.desastres.megaterremoto": "Bloco do Megaterremoto",
+  "itemGroup.desastres.main": "Desastres Naturais"
+}
